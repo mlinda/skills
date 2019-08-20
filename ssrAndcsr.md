@@ -42,4 +42,3 @@ DNS 预解析：浏览器会在加载网页时对网页中的域名进行解析�
 
 <link rel="dns-prefetch" href="www.ytuwlg.iteye.com" />
 Gzip页面压缩，像服务器发送压缩文件，同时服务器需要设置解析
-
